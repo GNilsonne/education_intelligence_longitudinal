@@ -1,3 +1,5 @@
+# By Kimmo Eriksson and Kimmo Sorjonen
+
 # Script for simulating and analyzing 100 datasets with model parameter values as follows
 n <- 6977
 
