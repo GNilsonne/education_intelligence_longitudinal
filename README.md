@@ -1,2 +1,2 @@
 # education_intelligence_longitudinal
-Code for analyses in a research project
+This repository contains an R script for simulations and analyses of the effect of education on intelligence in longitudinal data
